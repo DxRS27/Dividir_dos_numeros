@@ -1,0 +1,49 @@
+body {
+    background-color: thistle;
+}
+.bac {
+    background-color: slategray;
+    width: 500px;
+    height:300px;
+    margin-left: 350px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+.num1 {
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.num1 input {
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+}
+.num2 {
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 130px;
+    border-radius: 30px;
+}
+.num2 input {
+    width: 200px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+.btn button{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 200px;
+    border-radius: 30px;
+    width: 100px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.p1 {
+    position: absolute;
+    margin-top: 10px;
+}
+
+
